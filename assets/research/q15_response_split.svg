@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+  <rect width="1000" height="500" fill="#ffffff"/>
+  <text x="500" y="52" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">第15题开放回答构成（n=110）</text>
+  <text x="500" y="82" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">最希望网易云音乐优先改进什么</text>
+  <g transform="translate(345 280)">
+    <circle r="112" fill="none" stroke="#E8ECF2" stroke-width="48"/>
+    <circle r="112" fill="none" stroke="#3B82F6" stroke-width="48" pathLength="100" stroke-dasharray="59.1 40.9" transform="rotate(-90)"/>
+    <text y="-5" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="36" font-weight="700" fill="#172033">59.1%</text>
+    <text y="31" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="16" fill="#657086">给出实质意见</text>
+  </g>
+  <rect x="610" y="200" width="24" height="24" rx="5" fill="#3B82F6"/>
+  <text x="650" y="219" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="20" font-weight="700" fill="#172033">实质意见：65份</text>
+  <text x="650" y="246" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">用于归纳具体改进方向</text>
+  <rect x="610" y="302" width="24" height="24" rx="5" fill="#E8ECF2"/>
+  <text x="650" y="321" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="20" font-weight="700" fill="#172033">无明确意见：45份</text>
+  <text x="650" y="348" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">不能单独据此判断满意度</text>
+</svg>

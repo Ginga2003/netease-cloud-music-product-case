@@ -1,0 +1,67 @@
+{
+  "source": "docs/zh/research.md; docs/zh/requirements-analysis.md",
+  "researchDate": "2026-08-08",
+  "populationScope": "Retained personal-network sample; aggregate results only",
+  "collected": 159,
+  "retained": 110,
+  "surveyQuestions": 19,
+  "publicFeedback": {
+    "total": 30,
+    "positive": 15,
+    "negative": 15
+  },
+  "findings": [
+    {
+      "id": "search_usage",
+      "count": 109,
+      "denominator": 110
+    },
+    {
+      "id": "promotion_problem",
+      "count": 51,
+      "denominator": 110
+    },
+    {
+      "id": "navigation_problem",
+      "count": 37,
+      "denominator": 110
+    },
+    {
+      "id": "catalog_problem",
+      "count": 25,
+      "denominator": 110
+    },
+    {
+      "id": "behavior_change_among_catalog_problem",
+      "count": 23,
+      "denominator": 25
+    },
+    {
+      "id": "recommendation_repetition",
+      "count": 24,
+      "denominator": 64
+    },
+    {
+      "id": "age_18_30",
+      "count": 101,
+      "denominator": 110
+    },
+    {
+      "id": "student",
+      "count": 83,
+      "denominator": 110
+    }
+  ],
+  "ratings": [
+    {
+      "id": "promotion_control",
+      "mean": 2.5,
+      "scale": "1–5; excludes unused/unknown responses"
+    },
+    {
+      "id": "navigation_usability",
+      "mean": 2.95,
+      "scale": "1–5; excludes unused/unknown responses"
+    }
+  ]
+}

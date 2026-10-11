@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#ffffff"/>
+  <text x="70" y="62" font-family="Microsoft YaHei, Arial, sans-serif" font-size="30" font-weight="700" fill="#222">第15题开放意见关键词提炼</text>
+  <text x="70" y="98" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#666">65份实质意见；同一意见按主要主题归类</text>
+  <g font-family="Microsoft YaHei, Arial, sans-serif" font-size="19" fill="#333">
+    <text x="70" y="152">歌单与同步</text><rect x="250" y="130" width="720" height="28" rx="5" fill="#d33a31"/><text x="990" y="152">12</text>
+    <text x="70" y="210">曲库与版权</text><rect x="250" y="188" width="600" height="28" rx="5" fill="#e2564e"/><text x="870" y="210">10</text>
+    <text x="70" y="268">广告与弹窗</text><rect x="250" y="246" width="600" height="28" rx="5" fill="#e2564e"/><text x="870" y="268">10</text>
+    <text x="70" y="326">推荐质量</text><rect x="250" y="304" width="480" height="28" rx="5" fill="#ed7770"/><text x="750" y="326">8</text>
+    <text x="70" y="384">页面与操作</text><rect x="250" y="362" width="360" height="28" rx="5" fill="#f09a95"/><text x="630" y="384">6</text>
+    <text x="70" y="442">评论与社区</text><rect x="250" y="420" width="360" height="28" rx="5" fill="#f09a95"/><text x="630" y="442">6</text>
+    <text x="70" y="500">会员权益</text><rect x="250" y="478" width="240" height="28" rx="5" fill="#f4bbb7"/><text x="510" y="500">4</text>
+    <text x="70" y="558">稳定性与流畅度</text><rect x="250" y="536" width="240" height="28" rx="5" fill="#f4bbb7"/><text x="510" y="558">4</text>
+    <text x="70" y="616">音质与音效</text><rect x="250" y="594" width="180" height="28" rx="5" fill="#f7d0cd"/><text x="450" y="616">3</text>
+    <text x="70" y="674">搜索</text><rect x="250" y="652" width="120" height="28" rx="5" fill="#f7d0cd"/><text x="390" y="674">2</text>
+  </g>
+  <line x1="250" y1="704" x2="970" y2="704" stroke="#bbb" stroke-width="1"/>
+  <text x="250" y="735" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#777">0</text>
+  <text x="950" y="735" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#777">意见数</text>
+</svg>

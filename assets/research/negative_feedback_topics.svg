@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610">
+  <rect width="1200" height="610" fill="#ffffff"/>
+  <text x="600" y="52" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">15条公开负向反馈的主要主题</text>
+  <text x="600" y="82" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">每条反馈按主要问题归类；该图只描述定性样本，不代表总体用户比例</text>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+    <text x="300" y="150" text-anchor="end" font-size="17" fill="#334155">歌手、专辑与内容管理</text><rect x="325" y="119" width="600" height="44" rx="7" fill="#DC2626"/><text x="945" y="147" font-size="18" font-weight="700" fill="#172033">6条</text>
+    <text x="300" y="225" text-anchor="end" font-size="17" fill="#334155">曲库与版本质量</text><rect x="325" y="194" width="200" height="44" rx="7" fill="#F97316"/><text x="545" y="222" font-size="18" font-weight="700" fill="#172033">2条</text>
+    <text x="300" y="300" text-anchor="end" font-size="17" fill="#334155">推荐与首页体验</text><rect x="325" y="269" width="200" height="44" rx="7" fill="#F59E0B"/><text x="545" y="297" font-size="18" font-weight="700" fill="#172033">2条</text>
+    <text x="300" y="375" text-anchor="end" font-size="17" fill="#334155">广告与模块控制</text><rect x="325" y="344" width="200" height="44" rx="7" fill="#8B5CF6"/><text x="545" y="372" font-size="18" font-weight="700" fill="#172033">2条</text>
+    <text x="300" y="450" text-anchor="end" font-size="17" fill="#334155">社区质量与安全</text><rect x="325" y="419" width="200" height="44" rx="7" fill="#3B82F6"/><text x="545" y="447" font-size="18" font-weight="700" fill="#172033">2条</text>
+    <text x="300" y="525" text-anchor="end" font-size="17" fill="#334155">音质体验</text><rect x="325" y="494" width="100" height="44" rx="7" fill="#10B981"/><text x="445" y="522" font-size="18" font-weight="700" fill="#172033">1条</text>
+  </g>
+  <text x="600" y="582" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#657086">资料编号：N01—N15；详细内容及原始链接见《网易云音乐用户反馈汇总》</text>
+</svg>

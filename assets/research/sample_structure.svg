@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460">
+  <rect width="1200" height="460" fill="#ffffff"/>
+  <text x="600" y="48" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">最终样本结构（n=110）</text>
+  <text x="600" y="78" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">样本集中于18—30岁、学生和男性群体</text>
+  <g transform="translate(210 245)">
+    <circle r="78" fill="none" stroke="#E8ECF2" stroke-width="28"/>
+    <circle r="78" fill="none" stroke="#3B82F6" stroke-width="28" pathLength="100" stroke-dasharray="91.8 8.2" transform="rotate(-90)"/>
+    <text y="-2" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="29" font-weight="700" fill="#172033">91.8%</text>
+    <text y="27" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">101人</text>
+    <text y="132" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="21" font-weight="700" fill="#172033">18—30岁</text>
+    <text y="160" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#657086">其他年龄9人</text>
+  </g>
+  <g transform="translate(600 245)">
+    <circle r="78" fill="none" stroke="#E8ECF2" stroke-width="28"/>
+    <circle r="78" fill="none" stroke="#10B981" stroke-width="28" pathLength="100" stroke-dasharray="75.5 24.5" transform="rotate(-90)"/>
+    <text y="-2" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="29" font-weight="700" fill="#172033">75.5%</text>
+    <text y="27" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">83人</text>
+    <text y="132" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="21" font-weight="700" fill="#172033">学生</text>
+    <text y="160" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#657086">其他身份27人</text>
+  </g>
+  <g transform="translate(990 245)">
+    <circle r="78" fill="none" stroke="#E8ECF2" stroke-width="28"/>
+    <circle r="78" fill="none" stroke="#8B5CF6" stroke-width="28" pathLength="100" stroke-dasharray="71.8 28.2" transform="rotate(-90)"/>
+    <text y="-2" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="29" font-weight="700" fill="#172033">71.8%</text>
+    <text y="27" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">79人</text>
+    <text y="132" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="21" font-weight="700" fill="#172033">男性</text>
+    <text y="160" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#657086">女性31人</text>
+  </g>
+</svg>

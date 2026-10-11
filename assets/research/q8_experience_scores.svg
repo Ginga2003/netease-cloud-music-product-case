@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="870" viewBox="0 0 1400 870">
+  <rect width="1400" height="870" fill="#ffffff"/>
+  <text x="700" y="50" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">11项产品体验平均分（1—5分）</text>
+  <text x="700" y="80" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">第8题；“未使用或不了解”不计入平均分</text>
+  <line x1="960" y1="105" x2="960" y2="785" stroke="#F59E0B" stroke-width="2" stroke-dasharray="8 7"/><text x="970" y="122" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#B45309">3分基准</text>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+    <text x="405" y="150" text-anchor="end" font-size="16" fill="#334155">歌词准确度及同步效果</text><rect x="420" y="125" width="763" height="34" rx="6" fill="#2563EB"/><text x="1195" y="149" font-size="17" font-weight="700" fill="#172033">4.24</text>
+    <text x="405" y="208" text-anchor="end" font-size="16" fill="#334155">播放加载及运行稳定性</text><rect x="420" y="183" width="736" height="34" rx="6" fill="#3B82F6"/><text x="1168" y="207" font-size="17" font-weight="700" fill="#172033">4.09</text>
+    <text x="405" y="266" text-anchor="end" font-size="16" fill="#334155">搜索歌曲的效率</text><rect x="420" y="241" width="697" height="34" rx="6" fill="#60A5FA"/><text x="1129" y="265" font-size="17" font-weight="700" fill="#172033">3.87</text>
+    <text x="405" y="324" text-anchor="end" font-size="16" fill="#334155">推荐内容符合个人喜好的程度</text><rect x="420" y="299" width="691" height="34" rx="6" fill="#60A5FA"/><text x="1123" y="323" font-size="17" font-weight="700" fill="#172033">3.84</text>
+    <text x="405" y="382" text-anchor="end" font-size="16" fill="#334155">音质和音效体验</text><rect x="420" y="357" width="644" height="34" rx="6" fill="#10B981"/><text x="1076" y="381" font-size="17" font-weight="700" fill="#172033">3.58</text>
+    <text x="405" y="440" text-anchor="end" font-size="16" fill="#334155">歌单、收藏、下载等管理体验</text><rect x="420" y="415" width="643" height="34" rx="6" fill="#10B981"/><text x="1075" y="439" font-size="17" font-weight="700" fill="#172033">3.57</text>
+    <text x="405" y="498" text-anchor="end" font-size="16" fill="#334155">找到并播放想听歌曲的情况</text><rect x="420" y="473" width="625" height="34" rx="6" fill="#10B981"/><text x="1057" y="497" font-size="17" font-weight="700" fill="#172033">3.47</text>
+    <text x="405" y="556" text-anchor="end" font-size="16" fill="#334155">推荐内容的新鲜感与多样性</text><rect x="420" y="531" width="594" height="34" rx="6" fill="#14B8A6"/><text x="1026" y="555" font-size="17" font-weight="700" fill="#172033">3.30</text>
+    <text x="405" y="614" text-anchor="end" font-size="16" fill="#334155">会员价格与权益的匹配程度</text><rect x="420" y="589" width="545" height="34" rx="6" fill="#F59E0B"/><text x="977" y="613" font-size="17" font-weight="700" fill="#172033">3.03</text>
+    <text x="405" y="672" text-anchor="end" font-size="16" fill="#334155">页面清晰度与操作便利性</text><rect x="420" y="647" width="531" height="34" rx="6" fill="#F59E0B"/><text x="963" y="671" font-size="17" font-weight="700" fill="#172033">2.95</text>
+    <text x="405" y="730" text-anchor="end" font-size="16" fill="#334155">广告及弹窗的干扰控制</text><rect x="420" y="705" width="450" height="34" rx="6" fill="#DC2626"/><text x="882" y="729" font-size="17" font-weight="700" fill="#172033">2.50</text>
+  </g>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13" fill="#657086">
+    <text x="420" y="805">0</text><text x="600" y="805">1</text><text x="780" y="805">2</text><text x="960" y="805">3</text><text x="1140" y="805">4</text><text x="1320" y="805">5</text>
+  </g>
+  <text x="700" y="842" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#657086">各维度有效评价数为71—110；推荐和会员相关维度的有效评价数较少</text>
+</svg>

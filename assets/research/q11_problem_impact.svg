@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#ffffff"/>
+  <text x="600" y="50" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="28" font-weight="700" fill="#172033">问题对用户行为的影响（n=110）</text>
+  <text x="600" y="80" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">第11题：57.3%的用户报告了不同程度的行为或付费影响</text>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+    <text x="285" y="150" text-anchor="end" font-size="17" fill="#334155">基本没有影响</text><rect x="310" y="119" width="564" height="44" rx="7" fill="#94A3B8"/><text x="894" y="147" font-size="17" font-weight="700" fill="#172033">47人（42.7%）</text>
+    <text x="285" y="225" text-anchor="end" font-size="17" fill="#334155">更多使用其他音乐App</text><rect x="310" y="194" width="240" height="44" rx="7" fill="#3B82F6"/><text x="570" y="222" font-size="17" font-weight="700" fill="#172033">20人（18.2%）</text>
+    <text x="285" y="300" text-anchor="end" font-size="17" fill="#334155">减少使用频率</text><rect x="310" y="269" width="204" height="44" rx="7" fill="#F59E0B"/><text x="534" y="297" font-size="17" font-weight="700" fill="#172033">17人（15.5%）</text>
+    <text x="285" y="375" text-anchor="end" font-size="17" fill="#334155">已经停止使用</text><rect x="310" y="344" width="156" height="44" rx="7" fill="#DC2626"/><text x="486" y="372" font-size="17" font-weight="700" fill="#172033">13人（11.8%）</text>
+    <text x="285" y="450" text-anchor="end" font-size="17" fill="#334155">影响付费或续费意愿</text><rect x="310" y="419" width="156" height="44" rx="7" fill="#8B5CF6"/><text x="486" y="447" font-size="17" font-weight="700" fill="#172033">13人（11.8%）</text>
+  </g>
+  <text x="600" y="520" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="14" fill="#657086">问题影响已延伸到使用频率、竞品迁移、停用和付费意愿</text>
+</svg>
