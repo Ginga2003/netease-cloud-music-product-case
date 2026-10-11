@@ -13,7 +13,7 @@ This is a personal product-analysis exercise. The named products are research su
 | Artifact | What it shows |
 | --- | --- |
 | [English case](docs/en/case-study.md) / [PDF](downloads/NetEase_Cloud_Music_Case_EN.pdf) / [Editable DOCX](downloads/NetEase_Cloud_Music_Case_EN.docx) | Findings, scope revision, competitor lenses, three task flows, business rules, acceptance and validation |
-| [English concept wireframes](assets/wireframes/en) | Six screens redrawn from the final PRD |
+| [English concept wireframes](assets/wireframes/en) | Six screens illustrating task flows, page states and business rules |
 | [Full Chinese PRD](docs/zh/prd.md) / [PDF](downloads/Full_PRD_CN.pdf) | Architecture, flows, state rules, events, acceptance and traceability |
 | [Research synthesis](docs/zh/research.md) | Aggregate results, association methods and interpretation boundaries |
 | [Requirements analysis](docs/zh/requirements-analysis.md) | Twelve groups, thirteen scored entries and four prioritization criteria |
@@ -22,7 +22,7 @@ This is a personal product-analysis exercise. The named products are research su
 
 ## Research and evidence
 
-The 19-question survey collected 159 responses and retained 110. Thirty public feedback items (15 positive, 15 negative) supported seven issue categories. Public artifacts use aggregate findings from the original project reports.
+The 19-question survey collected 159 responses and retained 110. Thirty public feedback items (15 positive, 15 negative) supported seven issue categories. 
 
 - Search: 109/110 respondents; personal music management: 72; recommendations: 64.
 - Promotion friction: 51 (46.4%), rated 2.50/5.
@@ -30,7 +30,7 @@ The 19-question survey collected 159 responses and retained 110. Thirty public f
 - Catalog problems: 25 respondents; 23 reported changes in usage/payment. This supports an association-based hypothesis.
 - Ages 18–30: 91.8%; students: 75.5%. Personal-network recruitment limits population generalization.
 
-Association analysis used 3,000 permutation tests, Cramer's V / epsilon-squared, and Benjamini–Hochberg FDR adjustment across 34 tests. The advertising–behavioral-change association did not remain significant after adjustment. Individual-level data and filtering files stay local; the public package supports aggregate checks rather than complete statistical reruns.
+Association analysis used 3,000 permutation tests, Cramer's V / epsilon-squared, and Benjamini–Hochberg FDR adjustment across 34 tests. The advertising–behavioral-change association did not remain significant after adjustment. Aggregate results support checks of sample definitions and denominators. Full statistical reproduction requires respondent-level data.
 
 ## Decision trail
 
@@ -50,8 +50,6 @@ Association analysis used 3,000 permutation tests, Cramer's V / epsilon-squared,
 
 Research and requirements are complete. Current-version verification, technical review, usability testing, a 14-day baseline and staged rollout are proposed next steps. Historical cutoffs remain explicit: research August 8, competitive report August 20, final PRD September 12, 2026.
 
-## Package boundaries
+## Project materials
 
-The repository contains a complete English case, a Chinese case, six wireframes in each language, and the full historical supporting reports in Chinese. [Aggregate findings](data/aggregate-findings.json) include denominators and provenance. Original respondent records, contacts, resumes, private verification documents, signatures and working caches remain local. Third-party brands and referenced materials belong to their respective owners.
-
-Public package assembled October 11, 2026. Original project files are preserved locally.
+The repository contains a complete English case, a Chinese case, six wireframes in each language, and the full historical supporting reports in Chinese. [Aggregate findings](data/aggregate-findings.json) include denominators and provenance. Third-party brands and referenced materials belong to their respective owners.

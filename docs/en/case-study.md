@@ -8,7 +8,7 @@ A mobile-product study connecting survey evidence, public feedback, QQ Music and
 
 ## My work
 
-Survey design and synthesis, issue classification and association analysis, requirement scoring, competitive comparison, and a three-feature PRD. This case reorganizes the local project artifacts for public review.
+Survey design and synthesis, issue classification and association analysis, requirement scoring, competitive comparison, and a three-feature PRD.
 
 ## Delivery status
 
@@ -41,7 +41,7 @@ Findings from the 110 retained responses
 
 ## Analysis method
 
-3,000 permutation tests for associations; Cramer’s V for categorical relationships and epsilon-squared for score/intention differences. Benjamini–Hochberg FDR correction covered 34 tests. Public artifacts contain aggregates only.
+3,000 permutation tests for associations; Cramer’s V for categorical relationships and epsilon-squared for score/intention differences. Benjamini–Hochberg FDR correction covered 34 tests.
 
 ## Interpretation limits
 
@@ -178,7 +178,7 @@ Define reviewable next steps
 
 ## Artifacts
 
-Research synthesis; needs analysis and priority matrix; QQ Music/Spotify comparison; full Chinese PRD; this bilingual case and six visual concept wireframes reorganized from the final PRD.
+Research synthesis; needs analysis and priority matrix; QQ Music/Spotify comparison; full Chinese PRD; bilingual case studies and six concept wireframes with task flows and business rules.
 
 ## Traceability
 
@@ -188,9 +188,9 @@ Scenario → flow → prototype → event → acceptance criterion. Section 16 o
 
 Content metadata and playlist services, client/ad SDK behavior, membership entitlements, moderation-state APIs, customer operations and analytics. Each dependency has a failure-handling rule.
 
-## Public scope
+## Project context
 
-The repository contains aggregate results and product documents. Individual survey rows, contacts, private verification documents and working caches stay local. This is a personal product-analysis exercise studying NetEase Cloud Music.
+An independent product-research project studying the NetEase Cloud Music mobile app. Deliverables include user research, prioritization, competitive analysis, product requirements and concept wireframes.
 
 ## Project repository
 
