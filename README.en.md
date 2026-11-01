@@ -2,9 +2,9 @@
 
 [中文](README.md) · [English case PDF](downloads/NetEase_Cloud_Music_Case_EN.pdf) · [中文案例 PDF](downloads/NetEase_Cloud_Music_Case_CN.pdf)
 
-**Yiyu Mao / 毛一羽 · August–November 2026 · Product research and requirements design**
+**Yiyu Mao / 毛一羽 · August–September 2026 · Product research and requirements design**
 
-A mobile-product study connecting survey findings, public feedback and QQ Music/Spotify comparisons to proposals for catalog organization, promotion control, report handling and informed choice for AI-generated music.
+A mobile-product study connecting survey findings, public feedback and QQ Music/Spotify comparisons to three bounded proposals: **complete artist catalog browsing, promotion interruption control, and report-status transparency for comments and stranger interactions**.
 
 This is a personal product-analysis exercise. The named products are research subjects. Deliverables are research and design artifacts; wireframes show proposed behavior and illustrative values. Business effects require future validation.
 
@@ -18,9 +18,7 @@ This is a personal product-analysis exercise. The named products are research su
 | [Research synthesis](docs/zh/research.md) | Aggregate results, association methods and interpretation boundaries |
 | [Requirements analysis](docs/zh/requirements-analysis.md) | Twelve groups, thirteen scored entries and four prioritization criteria |
 | [Competitive analysis](docs/zh/competitive-analysis.md) | QQ Music and Spotify comparisons by task, structure and business model |
-| [AI music requirements](docs/en/ai-music-requirements.md) / [Chinese PRD](docs/zh/ai-music-prd.md) | Source labels, tiered verification, preference controls, purchase disclosure and corrections |
 | [Visual browsing page](index.html) | Download the repository and open this file in a browser; Chinese/English toggle |
-
 
 ## Research and evidence
 
