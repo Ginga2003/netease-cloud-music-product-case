@@ -1,14 +1,14 @@
 # NetEase Cloud Music
 
-User research → scoped product requirements | Aug–Sep 2026
+Product research and requirements design | Aug–Nov 2026
 
-A mobile-product study connecting survey evidence, public feedback, QQ Music and Spotify comparisons to three proposals for music discovery, uninterrupted listening, and report-status transparency.
+A mobile-product study covering catalog organization, listening interruptions, report handling and informed choice for AI-generated music, with user flows, business rules and acceptance criteria.
 
 159 responses collected | 110 retained responses | 30 public feedback items | 12 requirement groups
 
 ## My work
 
-Survey design and synthesis, issue classification and association analysis, requirement scoring, competitive comparison, and a three-feature PRD.
+Survey and feedback analysis, prioritization, competitive comparison, three mobile-experience proposals and an AI-music transparency PRD.
 
 ## Delivery status
 
@@ -93,6 +93,10 @@ P1 | Complete artist catalog browsing and organization
 
 Artist page → all songs/albums → filter by type and release date → play current results or add them to a playlist → review outcome details.
 
+## Evidence and scope
+
+Public feedback described catalog access, mixed content types and unclear batch scope. Reuse existing artist pages and sorting; validate whether organization, operation scope and batch outcomes need changes.
+
 ## Business rules
 
 Label the popular section “Top 50” and expose the complete catalog. Unknown metadata goes to “Other.” Deduplicate batch additions and report added, existing, unavailable and failed items separately.
@@ -106,6 +110,7 @@ Pagination and background tasks keep large catalogs usable. Preserve filters and
 Check entry visibility, filtering, playback scope and batch outcomes. Track full-catalog entry reach, task completion, batch success and failed-item recovery.
 
 ![Concept wireframe](../../assets/wireframes/en/01.png)
+
 ![Concept wireframe](../../assets/wireframes/en/02.png)
 
 ---
@@ -133,6 +138,7 @@ Keep search, playback, safety and account entries accessible. Optional modules c
 Retest signed-out, free, VIP and SVIP accounts across launch/return/track-change scenarios and network conditions. Compare repeat exposure, task recovery, accidental navigation and commercial conversion together.
 
 ![Concept wireframe](../../assets/wireframes/en/03.png)
+
 ![Concept wireframe](../../assets/wireframes/en/04.png)
 
 ---
@@ -142,6 +148,10 @@ Retest signed-out, free, VIP and SVIP accounts across launch/return/track-change
 P0 | Comment and stranger-interaction safety
 
 
+
+## Existing capability and scope
+
+Build on existing reporting and outcome feedback; examine acceptance confirmation, evidence requests, recovery and consistent status access across contexts.
 
 ## Routing and state
 
@@ -160,7 +170,38 @@ Keep unsuccessful submissions as drafts. Repeated submissions open the existing 
 Check IDs, consistent states, evidence supplementation, queryable outcomes and offline isolation. Measure acceptance success/latency, handling time, outcome visibility and post-block contact failures.
 
 ![Concept wireframe](../../assets/wireframes/en/05.png)
+
 ![Concept wireframe](../../assets/wireframes/en/06.png)
+
+---
+
+# AI music | Source transparency and informed choice
+
+Source labels, recommendation controls and purchase disclosure
+
+Help listeners understand available production information before listening, saving or purchasing, and provide controls, correction requests and traceable outcomes.
+
+## Evidence
+
+Public user feedback, reporting and platform materials inform the problem; client behavior, detector performance and review capacity require validation.
+
+## Verification
+
+Record production roles and evidence. Use basic checks, asynchronous screening and targeted rechecks, with human review for unresolved conflicts, appeals and audits.
+
+## Source and preference rules
+
+Separate verified generation, publisher declarations, active suspicions and unknowns. A matching generated component excludes the track; a human contribution cannot override other generated components.
+
+## Purchases and corrections
+
+Apply explicit source and license admission rules, disclose price and rights, preserve order snapshots and link material corrections to affected purchases.
+
+## Deliverables
+
+A focused Chinese PRD, listener wireframes, publisher operations, phased acceptance criteria and capacity planning. Validate outcomes through task tests and implementation review.
+
+[AI music requirements](ai-music-requirements.md) · [Full Chinese PRD](../zh/ai-music-prd.md)
 
 ---
 
@@ -195,5 +236,3 @@ An independent product-research project studying the NetEase Cloud Music mobile 
 ## Project repository
 
 https://github.com/Ginga2003/netease-cloud-music-product-case
-
----
