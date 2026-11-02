@@ -11,5 +11,5 @@
   <g font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#334155">
     <text x="120" y="312">肯定会继续：41人</text><text x="330" y="312">可能会继续：36人</text><text x="540" y="312">暂时不确定：18人</text><text x="750" y="312">可能不会：13人</text><text x="950" y="312">肯定不会：2人</text>
   </g>
-  <text x="600" y="390" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">明确或潜在流失风险为13.6%，另有16.4%的用户尚未形成稳定意愿</text>
+  <text x="600" y="390" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">倾向不再继续使用者占13.6%，暂不确定者占16.4%</text>
 </svg>

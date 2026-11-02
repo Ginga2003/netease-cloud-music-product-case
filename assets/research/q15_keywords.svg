@@ -11,7 +11,7 @@
     <text x="70" y="442">评论与社区</text><rect x="250" y="420" width="360" height="28" rx="5" fill="#f09a95"/><text x="630" y="442">6</text>
     <text x="70" y="500">会员权益</text><rect x="250" y="478" width="240" height="28" rx="5" fill="#f4bbb7"/><text x="510" y="500">4</text>
     <text x="70" y="558">稳定性与流畅度</text><rect x="250" y="536" width="240" height="28" rx="5" fill="#f4bbb7"/><text x="510" y="558">4</text>
-    <text x="70" y="616">音质与音效</text><rect x="250" y="594" width="180" height="28" rx="5" fill="#f7d0cd"/><text x="450" y="616">3</text>
+    <text x="70" y="616">歌词翻译与显示</text><rect x="250" y="594" width="180" height="28" rx="5" fill="#f7d0cd"/><text x="450" y="616">3</text>
     <text x="70" y="674">搜索</text><rect x="250" y="652" width="120" height="28" rx="5" fill="#f7d0cd"/><text x="390" y="674">2</text>
   </g>
   <line x1="250" y1="704" x2="970" y2="704" stroke="#bbb" stroke-width="1"/>

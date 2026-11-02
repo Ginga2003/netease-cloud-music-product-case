@@ -14,5 +14,5 @@
     <rect x="708" y="300" width="18" height="18" rx="3" fill="#94A3B8"/><text x="737" y="315">一般：47人（42.7%）</text>
     <rect x="938" y="300" width="18" height="18" rx="3" fill="#F59E0B"/><text x="967" y="315">比较不满意：14人（12.7%）</text>
   </g>
-  <text x="600" y="385" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">样本中没有“非常不满意”选项</text>
+  <text x="600" y="385" text-anchor="middle" font-family="Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="15" fill="#657086">本次样本无人选择“非常不满意”</text>
 </svg>
